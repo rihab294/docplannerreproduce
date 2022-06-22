@@ -1,0 +1,239 @@
+
+.logo-image {
+    width: 325px;
+    height: 200px;
+    padding-left: 60px;
+    padding-top: 8px;
+    border-radius: 0%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+nav {
+    position: sticky;
+}
+.nav-link {
+    
+    text-align: end;
+}
+.nav-item {
+    float: right;
+}
+.navbar-nav {
+    text-align: right;
+    padding-left: 450px;
+    padding-top: 7px;
+    font-family: Roboto,Arial,sans-serif;
+}
+.navbar-brand {
+    height: 20px
+}
+#firstlink {
+    color: #00b39b
+}
+#logoli {
+    width: 40px;
+    padding-top: 45px; 
+}
+#firsttitle {
+    
+    font-weight: lighter;
+    letter-spacing: -.3px;
+    font-size: 2.25rem;
+    color: #00b39b;
+    padding: 40px
+}
+p {
+    font-family: Roboto,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.75;
+    font-weight: 400;
+    -webkit-text-size-adjust: 100%;
+}
+#leftp {
+    padding-left: 60px;
+}
+#rightp {
+    padding-right: 60px;
+}
+.container-1 {
+    
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.container-1 div {
+    padding: 30px;
+    margin: 10px;
+    height: 350px;
+    border-radius: 10px;
+}
+.box-1 {
+    flex-basis: 25%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background: #00ccb1;
+    padding: 40px;
+}
+.box-2 {
+    flex-basis: 25%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background: #3d83df
+}
+.box-3 {
+    flex-basis: 25%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background: #1b2734
+}
+h1 {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+}
+h2 {
+    font-size: 1.5em;
+    flex-basis: 55%;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+}
+.end {
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    -webkit-appearance: none;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color: white;
+    height: 40px;
+    font-size: larger
+}
+option {
+    color: black;
+}
+
+a {
+    position: relative
+}
+.sub-menu {
+    position: absolute
+}
+.fa-solid {
+    color: black
+}
+.container-2 {
+    display: flex;
+    justify-content: center;
+}
+.container-2 div {
+    padding: 5px 40px
+}
+.col-sm-4 > h1 {
+    color: #00ccb1;
+    float: right;
+    width: 80%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+#little {
+    width: 150px
+}
+.stats {
+    background: #e5faf8;
+}
+#world {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #00ccb1;
+    margin: 0.3em 0;
+    padding-left: 120px;
+    padding-top: 60px
+}
+.vert {
+    background: #e5faf8;
+    height: 550px
+}
+#divided {
+    width: 280px;
+}
+#smaller {
+    padding-left: 120px;
+}
+#squares {
+    padding: 30px
+}
+#space {
+    padding: 30px 0px
+}
+.central {
+    padding: 30px 450px;
+}
+.improve {
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.countries {
+    display: flexbox;
+    padding: 20px 170px;
+}
+.office {
+    display: inline-block;
+    margin: 10px;
+}
+span {
+    margin-left: 100px
+}
+.office > a {
+    text-decoration: none;
+    color: grey
+}
+.office:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.office__desc {
+    padding-left: 10px;
+}
+.interested >h1 {
+    font-size: 2.1428571429em;
+    color: #333;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.interested > a {
+    border-radius: 4px;
+    padding: 1.1666666667em 1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+}
+.interested {
+    text-align: center;
+    padding: 40px
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+    color: #ababab;
+    margin: 1.6em 0;
+}
